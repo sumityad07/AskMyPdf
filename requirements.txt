@@ -1,0 +1,7 @@
+transformers
+langchain
+langchain-huggingface
+langchain_community
+pypdf
+fastapi
+faiss-cpu
